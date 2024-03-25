@@ -162,7 +162,7 @@ div#dropdown > nav:first-child > a:hover,nav:nth-child(2) > a:hover{
 #landingPage{
     width: 100%;
     height: 55vh;
-   background-image: url("./images/Organi.png");
+   background-image: url("./Organi.png");
    background-size: contain;
    background-repeat: no-repeat;
    background-position: center;
